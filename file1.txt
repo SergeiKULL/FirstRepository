@@ -1,5 +1,9 @@
 Hello world!!!!!123
+<<<<<<< HEAD
 new line777
+=======
+new line789
+>>>>>>> add-future2
 new line2
 new line3
 baGGGGggg!
